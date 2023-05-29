@@ -27,9 +27,13 @@ header {
   justify-content: flex-end;
   gap: 20px;
   margin-right: 250px;
+  
 }
 
-
+.navbar a{color: #E0D8CA;
+text-decoration: solid;
+font-family: "Outfit";
+font-size: 20px;}
 
 
 
